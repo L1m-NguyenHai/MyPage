@@ -689,6 +689,11 @@ span {
   text-decoration: none;
 }
 
+.secondary-url {
+  margin-left: 12px;
+  color: var(--accent);
+}
+
 .project-points {
   margin-top: 0;
   gap: 4px;
